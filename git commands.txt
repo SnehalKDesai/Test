@@ -1,0 +1,275 @@
+ git st
+    2  git status
+    3  git config --global --add safe.directory D:/GitHub/DualAxisSolarTracker
+    4  git status
+    5  git remote -v
+    6  git remote update origin https://github.com/sgsde/DualAxisSolarTracker.git
+    7  git push origin master
+    8  git branch
+    9  git st
+   10  git checkout master
+   11  git log
+   12  git push origin --set-upstream master
+   13  git remote -v
+   14  git remote update origin https://github.com/sgsde/DualAxisSolarTracker.git
+   15  git remote add origin https://github.com/sgsde/DualAxisSolarTracker.git
+   16  git remote  remove origin
+   17  git remote add origin https://github.com/sgsde/DualAxisSolarTracker.git
+   18  git push --set-upstream origin master
+   19  git push --set-upstream origin master
+   20  cd ..
+   21  cd FrontEndProjects/
+   22  git status
+   23   git config --global --add safe.directory D:/GitHub/FrontEndProjects
+   24  git remote remove origin
+   25  git remote add origin https://github.com/sgsde/FrontEndProjects.git
+   26  git push origin --set-upstream master
+   27  git checkout master
+   28  git branch
+   29  git status
+   30  git lo -5
+   31  git log
+   32  git branch -a
+   33  cd ..
+   34  cd FullStackProjects/
+   35  git status
+   36          git config --global --add safe.directory D:/GitHub/FullStackProjects
+   37  git branch
+   38  git checkout master
+   39  git branch -a
+   40  git checkout dev-client
+   41  git remote remove origin
+   42  git branch -a
+   43  git checkout dev-server
+   44  git remote add origin https://github.com/sgsde/FullStackProjects.git
+   45  git push origin --set-upstream dev-client
+   46  cd ..
+   47  cd javatopics/
+   48  git status
+   49  git status
+   50  git status
+   51  cd ..
+   52  cd NESTJs/
+   53  git status
+   54  git config --global --add safe.directory D:/GitHub/NESTJs
+   55  git st
+   56  git status
+   57  git branch
+   58  git branch -a
+   59  git checkout practise
+   60  git checkout trial2
+   61  git checkout trail4
+   62  git remote remove origin
+   63  git branch =a
+   64  git branch -a
+   65  git remote add origin git config --global --add safe.directory D:/GitHub/NESTJs
+   66  git remote add origin https://github.com/sgsde/NESTJs.git
+   67  git push origin --set-upstream trail4
+   68  cd ..
+   69  cd  Notes/
+   70  git status
+   71   git config --global --add safe.directory D:/GitHub/Notes
+   72  git checkout master
+   73  git branch -a
+   74  git remote remove origin
+   75  git remote add origin https://github.com/sgsde/Notes.git
+   76  git push origin --set-upstream master
+   77  cd ..
+   78  cd remoteAttendanceApp/
+   79  git status
+   80  git config --global --add safe.directory D:/GitHub/remoteAttendanceApp
+   81  git branch -a
+   82  git checkout signupPageDevelopment
+   83  git checkout master
+   84  git remote remove origin
+   85  git remote add origin https://github.com/sgsde/remoteAttendanceApp.git
+   86  git push origin --set-upstream master
+   87  git checkout signupPageDevelopment
+   88  git push origin --set-upstream signupPageDevelopment
+   89  cd ..
+   90  cd remotecorejava/
+   91  git status
+   92  git config --global --add safe.directory D:/GitHub/remotecorejava
+   93  git branch -a
+   94  git checkout master
+   95  git remote remove origin
+   96  git status
+   97  git lo -5
+   98  git log
+   99  git remote add origin https://github.com/sgsde/remotecorejava.git
+  100  git push origin --set-upstream master
+  101  cd ..
+  102  cd remotedatastructure/
+  103  git status
+  104  git config --global --add safe.directory D:/GitHub/remotedatastructure
+  105  git checkout master
+  106  git branch -a
+  107  git remote remove origin
+  108  git remote add origin https://github.com/sgsde/remotedatastructure.git
+  109  git push origin --set-upstream master
+  110  cd ../remoteProblemSolving/
+  111  git status
+  112  cd ../remoteRESTAPI/
+  113  git status
+  114   git config --global --add safe.directory D:/GitHub/remoteRESTAPI
+  115  git checkout master
+  116  git branch -a
+  117  git remote remove origin
+  118  git remote add origin https://github.com/sgsde/remoteRESTAPI.git
+  119  git push origin --set-upstream master
+  120  cd ..
+  121  cd remoteUtility/
+  122  git status
+  123   git config --global --add safe.directory D:/GitHub/remoteUtility
+  124  git branch -a
+  125  git checkout master
+  126  git remote remove origin
+  127  git remote add origin https://github.com/sgsde/remoteUtility.git
+  128  git push origin --set-upstream master
+  129  cd ../remotewebproject/
+  130  git status
+  131   git config --global --add safe.directory D:/GitHub/remotewebproject
+  132  git branch -a
+  133  git checkout master
+  134  git remote remove origin
+  135  git remote add origin https://github.com/sgsde/remotewebproject.git
+  136  git push origin --set-upstream master
+  137  git st
+  138  git status
+  139   git config --global --add safe.directory 'D:/Coding/Documentation/Core Java'
+  140  git remote -v
+  141  git branch
+  142  git checkout master
+  143  git log
+  144  git status
+  145  git remote remove origin
+  146  git remote add origin https://github.com/sgsde/Notes.git
+  147  git push origin --set-upstream master
+  148  git init
+  149  git status
+  150  git config --global --add safe.directory D:/Coding/Documentation
+  151  git stats
+  152  git status
+  153  git add Core\ Java Node\ Js/ ReactJs/ Spring/
+  154  git status
+  155  git rm --cached  .
+  156  git rm --cached  . -r
+  157  git status
+  158  git status
+  159  git init
+  160  git add .
+  161  git config --global --add safe.directory 'D:/Coding/Documentation/Node Js'
+  162  git statys
+  163  git status
+  164  git add .
+  165  git commit -am 'Node js notes added'
+  166  git config --global user.email shivam.gokarankar.sde@gmail.com
+  167  git config --global user.name sgsde
+  168  git status
+  169  git commit -am 'node js notes added'
+  170  git status
+  171  git init
+  172  git status
+  173  git add Core\ Java Node\ Js/  ReactJs/ Spring/
+  174  git status
+  175  git commit -m 'Notes added'
+  176  git remote add origin https://github.com/sgsde/documentation.git
+  177  git push origin master --set-upstream
+  178  code .
+  179  git init
+  180  git remote add origin https://github.com/sgsde/ReactJs.git
+  181   git config --global --add safe.directory D:/Coding/Practice/ReactJs
+  182  git subtree  add --prefix=SnakeGame  https://github.com/sgsde/react-snakegame.git master --squash
+  183  git st
+  184  git diff
+  185  cd ..
+  186  git st
+  187  git lo -5
+  188  git checkout DDD_unfyd_be_bot_api
+  189  git pull origin DDD_unfyd_be_bot_api
+  190  git checkout DDD_unfyd_be_bot_api_shivam
+  191  git pull origin DDD_unfyd_be_bot_api_shivam
+  192  code .
+  193  git pull origin DDD_unfyd_be_bot_api_shivam
+  194  git checkout DDD_unfyd_be_bot_api
+  195  git pull origin DDD_unfyd_be_bot_api
+  196  git remote update
+  197  git pull origin DDD_unfyd_be_bot_api
+  198  git checkout DDD_unfyd_be_bot_api_shivam
+  199  git pull origin
+  200  git lo -5
+  201  git checkout DDD_unfyd_be_bot_api_neelam
+  202  git lo -5
+  203  git show HEAD
+  204  clear
+  205  git lo -5
+  206  code ,
+  207  code .
+  208  code .
+  209  git init
+  210  git remote add origin https://github.com/SnehalKDesai/Test.git
+  211  git remote update
+  212  git checkout qa
+  213  code .
+  214  git checkout --orphan=dev
+  215  git lo -5
+  216  git branch -D qa
+  217  git add .
+  218  git commit -m 'test'
+  219  git push origin --prune
+  220  git lo -5
+  221  git push origin --prune
+  222  git remote prune origin
+  223  git checkout main
+  224  git checkout dev
+  225  git add .
+  226  git commit -m 'test1'
+  227  git push origin --set-upstream dev
+  228  git config --system credential.helper
+  229  git config --system --unset credential.helper
+  230  git credential-cache exit
+  231  git push origin --set-upstream dev
+  232  git config --global user.name snehal
+  233  git config --global user.email snehal61desai@gmail.com
+  234  git push origin --set-upstream dev
+  235  git push origin --set-upstream dev
+  236  git config --global user.name SnehalKDesa
+  237  git config --global user.name SnehalKDesai
+  238  git push origin --set-upstream dev
+  239  git remote prune origin
+  240  git branch -D main
+  241  git checkout -b qa
+  242  git st
+  243  git add .
+  244  git commit -am 'test2'
+  245  git checkout dev
+  246  git add .
+  247  git commit -am 'test3'
+  248  git checkout qa
+  249  git checkout dev
+  250  git checkout qa
+  251  git checkout dev
+  252  git merge qa
+  253  git commit
+  254  git add .
+  255  git commit
+  256  git reflog
+  257  git reset --hard HEAD~1
+  258  git reflog
+  259  git checkout qa
+  260  git merge dev
+  261  git add .
+  262  git commit
+  263  git checkout dev
+  264  git merge f98b4061
+  265  git merge 6978d010
+  266  git merge --abort
+  267  git add .
+  268  git commit -m 'test4'
+  269  git merge qa
+  270  git add .
+  271  git st
+  272  git commt
+  273  git commit
+  274  git history
+  275  history
